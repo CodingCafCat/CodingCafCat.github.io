@@ -1,0 +1,44 @@
+# Site settings
+url: "https://codingcafcat.github.io"
+baseurl: "/Privacy_Policies"
+
+# Author
+author:
+  name: "Suhyun Lee"
+  email: "buzzingcafcat@gmail.com"
+
+# Theme
+theme: jekyll-theme-slate
+
+title: Privacy Policy for Track My Receipt
+description: ""
+show_downloads: false
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalinks
+permalink: pretty
+
+# Exclude files from the generated site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - .gitignore
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
