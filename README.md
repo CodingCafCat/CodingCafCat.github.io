@@ -1,2 +1,2 @@
 # CodingCafCat.github.io
-Website
+Read our privacy policy [here](https://codingcafcat.github.io/privacy_policy)
